@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+CityGen.UnityClient/Library
+CityGen.UnityClient/Logs
